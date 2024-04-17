@@ -1,0 +1,15 @@
+		 Welcome Our Shop 
+ Bill Number:5052
+ Customer Name:njxsjh6567567
+ Customer Id:1986
+ Phone Number:000000000000000000
+ Email:nishantkoahti79@gamail.com
+
+ Products		QTY	Price
+ Lux		1567546466		78377323300
+
+********************************
+ Sub Amount:			Rs.78377323300.00
+ Tax Amount:			Rs.783773232.50
+ Total Amount:			Rs.79161096532.50
+********************************

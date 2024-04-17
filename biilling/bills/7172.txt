@@ -1,0 +1,16 @@
+		 Welcome Our Shop 
+ Bill Number:7172
+ Customer Name:vishesh
+ Customer Id:8364
+ Phone Number:7867678976
+ Email:v@gmail.com
+
+ Products		QTY	Price
+ Roadstar		1		1700
+ RealMe 13		1		27000
+
+********************************
+ Sub Amount:			Rs.28700.00
+ Tax Amount:			Rs.17.00
+ Total Amount:			Rs.28717.00
+********************************

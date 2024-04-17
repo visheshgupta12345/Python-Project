@@ -1,0 +1,16 @@
+		 Welcome Our Shop 
+ Bill Number:9019
+ Customer Name:aman
+ Customer Id:3162
+ Phone Number:897675667
+ Email:aman@gmail.com
+
+ Products		QTY	Price
+ Roadstar		1		1700
+ Jashmin		1		30
+
+********************************
+ Sub Amount:			Rs.1730.00
+ Tax Amount:			Rs.17.00
+ Total Amount:			Rs.1747.00
+********************************

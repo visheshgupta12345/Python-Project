@@ -1,0 +1,15 @@
+		 Welcome Our Shop 
+ Bill Number:1627
+ Customer Name:ankur
+ Customer Id:7805
+ Phone Number:2341545141
+ Email:ankur@gmail.com
+
+ Products		QTY	Price
+ Roadstar		1		1700
+
+********************************
+ Sub Amount:			Rs.1700.00
+ Tax Amount:			Rs.0.00
+ Total Amount:			Rs.1700.00
+********************************

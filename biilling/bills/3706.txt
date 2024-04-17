@@ -1,0 +1,16 @@
+		 Welcome Our Shop 
+ Bill Number:3706
+ Customer Name:priyam
+ Customer Id:7257
+ Phone Number:987891794
+ Email:p@gmail.com
+
+ Products		QTY	Price
+ Olay		1		40
+ Park Avenue		1		1800
+
+********************************
+ Sub Amount:			Rs.1840.00
+ Tax Amount:			Rs.0.40
+ Total Amount:			Rs.1840.40
+********************************

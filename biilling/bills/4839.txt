@@ -1,0 +1,15 @@
+		 Welcome Our Shop 
+ Bill Number:4839
+ Customer Name:yogesh
+ Customer Id:6785
+ Phone Number:98997862
+ Email:y@gmail.com
+
+ Products		QTY	Price
+ Jashmin		1		30
+
+********************************
+ Sub Amount:			Rs.30.00
+ Tax Amount:			Rs.0.00
+ Total Amount:			Rs.30.00
+********************************

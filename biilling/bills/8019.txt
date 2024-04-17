@@ -1,0 +1,15 @@
+		 Welcome Our Shop 
+ Bill Number:8019
+ Customer Name:vinod
+ Customer Id:3863
+ Phone Number:478267825
+ Email:vinodv@gmail.com
+
+ Products		QTY	Price
+ Olay		1		40
+
+********************************
+ Sub Amount:			Rs.40.00
+ Tax Amount:			Rs.0.00
+ Total Amount:			Rs.40.00
+********************************
